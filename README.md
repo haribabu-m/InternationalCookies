@@ -1,15 +1,4 @@
-# InternationalCookies
-
-![enter image description here](https://www.pluralsight.com/content/dam/pluralsight/newsroom/brand-assets/logos/pluralsight-logo-vrt-color-2.png)  
-
-Hi! 
-
-Welcome to the GitHub repository of the internationalcookies application.
-This app is the demo app for the Pluralsight course [Building a Global App With Azure Paas](https://app.pluralsight.com/profile/author/barry-luijbregts).
-
-You can download a copy and follow along in the course.
-
-You can see the end result running live here: [https://www.internationalcookies.eu/](https://www.internationalcookies.eu/)
+Welcome to the Hari's version of the internationalcookies application.
 
 The solution consists of:
 
@@ -108,5 +97,4 @@ Fill the **appsettings.json** file in the **InternationalCookies** or **Internat
 	 - Copy the primary access key and paste it in the **AzureStorageConnection** where it says **youraccountkey**
 	 - In the Azure Portal, you will find the Azure Storage Account name. Copy this and paste it in the **AzureStorageConnection** where it says **youraccountname**
 
-Instructions for setting up Azure Active Directory can be found in the **Pluralsight course** in Module **5: Securing the Application and Data**.
 
